@@ -39,7 +39,7 @@ T-load is a bash based script which modifies and changes your terminal from bori
 
 ### REQUIREMENTS :
 * internet
-* storage 400 MB
+* storage 4044
 
 ## FEATURES :
 * [+] New interface !
